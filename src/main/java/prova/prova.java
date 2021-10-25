@@ -16,7 +16,14 @@ public class prova {
 	}
 	
 	
-	public void stampa() {
+	public void stampaA() {
 		System.out.println(uno);
 	}
+	
+	public void stampaB() {
+		System.out.println(due);
+	}
+	
+	
+	
 }
